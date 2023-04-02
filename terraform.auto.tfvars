@@ -1,2 +1,2 @@
-instance_type = "t2.small"
+instance_type = "t2.micro"
 instance_name = "VM_Name"
